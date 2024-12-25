@@ -4,7 +4,7 @@
 The [BigANN challenge](https://big-ann-benchmarks.com/neurips23.html) aims to encourage the development of indexing data structures and search algorithms 
 for practical variants of the Approximate Nearest Neighbor (ANN) or Vector search problem on commodity hardware.
 
-This work in progress targets the high-dimensional sparse approximate nearest neighbor search problem using ray tracing primitives built into [FAISS](https://github.com/facebookresearch/faiss).
+This work in progress targets the high-dimensional sparse approximate nearest neighbor search problem using ray tracing primitives and is built into [FAISS](https://github.com/facebookresearch/faiss).
 
 ## Quick Start
 
