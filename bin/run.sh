@@ -6,4 +6,3 @@ make all
 popd
 
 ./test_sparsert_cpu.sh
-
